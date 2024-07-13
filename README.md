@@ -16,7 +16,3 @@ Initial instruction was provided by the University of Minnesota EdX Bootcamp.
 Reference on how to write this Read-Me was provided by a [Medium.com Article](https://medium.com/@kc_clintone/the-ultimate-guide-to-writing-a-great-readme-md-for-your-project-3d49c2023357).
 
 I also utilized the Xpert Learning Assistant provided by the University of Minnesota EdX Full Stack Bootcamp program.
-
-## Website Functionality Video
-
-The website functionality can be viewed by navigating to the following [Google Drive Link](https://drive.google.com/file/d/15O1pu0YN7rgAG5Q7sddSj1GqXkOOW9hz/view?usp=drive_link) and watching the video for a full demo.
