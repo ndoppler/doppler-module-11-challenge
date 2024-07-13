@@ -16,3 +16,10 @@ Initial instruction was provided by the University of Minnesota EdX Bootcamp.
 Reference on how to write this Read-Me was provided by a [Medium.com Article](https://medium.com/@kc_clintone/the-ultimate-guide-to-writing-a-great-readme-md-for-your-project-3d49c2023357).
 
 I also utilized the Xpert Learning Assistant provided by the University of Minnesota EdX Full Stack Bootcamp program.
+
+Reference on how to embed an image into an .md file was utilized from this [DigitalOcean Article](https://www.digitalocean.com/community/tutorials/markdown-markdown-images).
+
+## App Images
+<img title="Landing Page" alt="first" src="./public/assets/images/homescreen.png">
+<img title="Main Functionality" alt="note page" src="./public/assets/images/function.png">
+
